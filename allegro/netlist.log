@@ -1,0 +1,13 @@
+{ Using PSTWRITER 16.6.0 d001Mar-14-2017 at 19:23:20 }
+
+#1 WARNING(ORCAP-36006): Part Name "ATMEGA8515_AU_PDIP_DIP40_6_ATMEGA8515_AU_PDIP" is renamed to "ATMEGA8515_AU_PDIP_DIP40_6_ATME".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\CADENCE\PROJEKTE\DART\allegro/pstchip.dat
+
+Loading... C:\CADENCE\PROJEKTE\DART\allegro/pstchip.dat
+
+Loading... C:\CADENCE\PROJEKTE\DART\allegro/pstxprt.dat
+
+Loading... C:\CADENCE\PROJEKTE\DART\allegro/pstxnet.dat
+packaging the design view...

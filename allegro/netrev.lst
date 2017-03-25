@@ -1,0 +1,89 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : dart_board.brd                                )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Mar 14 19:23:23 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_DELETE_FIRST_SEGMENT FALSE;
+RIPUP_RETAIN_BONDWIRE FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'C:\CADENCE\PROJEKTE\DART\allegro';
+BOARD_DIRECTORY 'C:/Cadence/Projekte/DART';
+OLD_BOARD_NAME 'C:/Cadence/Projekte/DART/dart_board.brd';
+NEW_BOARD_NAME 'C:/Cadence/Projekte/DART/dart_board.brd';
+
+CmdLine: netrev.exe -y 1 -i C:\CADENCE\PROJEKTE\DART\allegro C:\Cadence\Projekte\DART\dart_board.brd C:\Cadence\Projekte\DART\dart_board.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/CADENCE/PROJEKTE/DART/allegro/pstchip.dat 
+   Finished reading C:/CADENCE/PROJEKTE/DART/allegro/pstchip.dat (00:00:00.06)
+Starting to read C:/CADENCE/PROJEKTE/DART/allegro/pstxprt.dat 
+   Finished reading C:/CADENCE/PROJEKTE/DART/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/CADENCE/PROJEKTE/DART/allegro/pstxnet.dat 
+   Finished reading C:/CADENCE/PROJEKTE/DART/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Mar 14 19:23:23 2017
+   DESIGN NAME : 'DART'
+   PACKAGING ON Sep 10 2012 04:46:09
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:04:01
+elapsed time  0:00:02
+
