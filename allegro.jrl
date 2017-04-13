@@ -1,28 +1,15 @@
-\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:02)     Journal start - Tue Mar 21 20:01:14 2017
-\t (00:00:02)         Host=FLO-PC User=Flo Pid=10816 CPUs=2
-\t (00:00:02) 
-\t (00:00:03) Opening existing design...
-\w (00:00:03) WARNING(SPMHDB-214): Allegro PCB Design Planner Option opening an Allegro Editor design.
-\w (00:00:03) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
-\w (00:00:03) WARNING(SPMHOD-34): Design was last saved by lower capability product (Allegro Editor). DRC is set out-of-date, you may wish to update DRC to reflect current rules.
-\i (00:00:05) fillin confirm
-\d (00:00:05) Database opened: C:/Cadence/Projekte/DART/dart_board.brd
+\t (00:00:03) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:03)     Journal start - Thu Apr 13 20:58:33 2017
+\t (00:00:03)         Host=FLORIAN_HP-PC User=Florian_HP Pid=8056 CPUs=2
+\t (00:00:03) 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Database opened: C:/Cadence/Projekte/dart_russ_bray/dart_board.brd
 \t (00:00:06) Grids are drawn 2.5400, 2.5400 apart for enhanced viewability.
-\i (00:00:06) trapsize 8543
-\i (00:00:06) trapsize 8247
-\i (00:00:06) trapsize 8571
-\i (00:00:06) trapsize 8256
-\i (00:00:06) trapsize 6928
-\i (00:00:06) trapsize 8256
-\i (00:00:07) generaledit 
-\i (00:00:08) open 
-\i (00:00:15) fillin "C:\Cadence\Projekte\moving_head\moving_head.brd"
-\i (00:00:15) cd "C:\Cadence\Projekte\moving_head"
-\t (00:00:15) Opening existing design...
-\w (00:00:15) WARNING(SPMHDB-214): Allegro PCB Design Planner Option opening an Allegro Editor design.
-\w (00:00:15) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
-\w (00:00:15) WARNING(SPMHOD-34): Design was last saved by lower capability product (Allegro Editor). DRC is set out-of-date, you may wish to update DRC to reflect current rules.
-\i (00:00:16) fillin confirm
-\i (00:00:16) trapsize 550
-\t (00:00:16)     Journal end - Tue Mar 21 20:01:28 2017
+\i (00:00:06) trapsize 13035
+\i (00:00:06) trapsize 12644
+\i (00:00:06) trapsize 13103
+\i (00:00:06) trapsize 10439
+\i (00:00:06) trapsize 13631
+\i (00:00:08) etchedit 
+\i (00:00:09) exit 
+\t (00:00:09)     Journal end - Thu Apr 13 20:58:39 2017
