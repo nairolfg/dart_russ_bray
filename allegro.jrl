@@ -1,15 +1,35 @@
 \t (00:00:03) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:03)     Journal start - Thu Apr 13 20:58:33 2017
-\t (00:00:03)         Host=FLORIAN_HP-PC User=Florian_HP Pid=8056 CPUs=2
+\t (00:00:03)     Journal start - Thu Apr 13 21:14:11 2017
+\t (00:00:03)         Host=FLORIAN_HP-PC User=Florian_HP Pid=7404 CPUs=2
 \t (00:00:03) 
 \t (00:00:05) Opening existing design...
-\d (00:00:05) Database opened: C:/Cadence/Projekte/dart_russ_bray/dart_board.brd
-\t (00:00:06) Grids are drawn 2.5400, 2.5400 apart for enhanced viewability.
-\i (00:00:06) trapsize 13035
-\i (00:00:06) trapsize 12644
-\i (00:00:06) trapsize 13103
-\i (00:00:06) trapsize 10439
-\i (00:00:06) trapsize 13631
+\d (00:00:06) Database opened: C:/Cadence/Projekte/dart_russ_bray/dart_board.brd
+\t (00:00:06) Grids are drawn 50.000, 50.000 apart for enhanced viewability.
+\i (00:00:06) trapsize 16754
+\i (00:00:06) trapsize 16251
+\i (00:00:06) trapsize 16841
+\i (00:00:07) trapsize 13417
+\i (00:00:07) trapsize 13417
 \i (00:00:08) etchedit 
-\i (00:00:09) exit 
-\t (00:00:09)     Journal end - Thu Apr 13 20:58:39 2017
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 4738.461 1336.767
+\i (00:00:08) trapsize 26834
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 3753.666 1342.134
+\i (00:00:08) trapsize 53667
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 3027.370 1594.365
+\i (00:00:09) trapsize 26834
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 1869.946 1594.366
+\i (00:00:09) trapsize 13417
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 1912.880 1591.683
+\i (00:00:10) trapsize 26834
+\i (00:00:12) exit 
+\t (00:00:12)     Journal end - Thu Apr 13 21:14:20 2017
