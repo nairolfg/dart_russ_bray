@@ -160,7 +160,8 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" "Library")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\dart.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
